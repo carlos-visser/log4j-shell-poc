@@ -5,7 +5,7 @@ pipeline {
         //REPLACE XXX WITH YOUR STUDENT NUMBER
         IMAGE_TAG= "std11"        
         REPOSITORY_URI = "public.ecr.aws/f9n2h3p5/log4shellpub"
-        AWS_DEFAULT_REGION = "us-east-1"
+        AWS_DEFAULT_REGION = "us-east-2"
     }
    
     stages {
